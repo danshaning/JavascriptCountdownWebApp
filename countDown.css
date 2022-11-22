@@ -1,0 +1,29 @@
+.coming-soon{
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-size: 4rem;
+}
+
+h3{
+    font-size: 1rem;
+}
+
+.countdown{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.day,.hour,.min,.second{
+    font-size: 2rem;
+}
+
+.img{
+    height: 50vh;
+}
